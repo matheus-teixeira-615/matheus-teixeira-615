@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º período <br> 
 💻 Apaixonado por tecnologia, programação e inteligência artificial <br> 
 ☕ Desenvolvedor com foco em Java <br>
-📱 Desenvolvendo apps e sistemas com foco em soluções simples e eficientes <br>
+📱 Desenvolvendo sistemas com foco em soluções simples e eficientes <br>
 📚 Sempre buscando aprender mais e evoluir como desenvolvedor
 
 ---
