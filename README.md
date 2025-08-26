@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Matheus Teixeira 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º período  
-💻 Apaixonado por tecnologia, programação e inteligência artificial
-☕ Desenvolvedor com foco em Java
-📱 Desenvolvendo apps e sistemas com foco em soluções simples e eficientes  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º período <br> 
+💻 Apaixonado por tecnologia, programação e inteligência artificial <br> 
+☕ Desenvolvedor com foco em Java <br>
+📱 Desenvolvendo apps e sistemas com foco em soluções simples e eficientes <br>
 📚 Sempre buscando aprender mais e evoluir como desenvolvedor
 
 ---
