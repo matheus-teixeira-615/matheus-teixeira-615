@@ -32,9 +32,9 @@
 
 ### 🌱 Atualmente aprendendo
 
-- Desenvolvimento de aplicações Java com banco de dados (DBeaver)  
-- Estruturação de projetos e boas práticas  
-- Sistema CRUD em Java  
+- Desenvolvimento de sistema CRUD com interface gráfica simples
+- Spring security 
+- Implementar sistema CRUD com conexão com banco de dados relacionais. 
 
 ---
 
