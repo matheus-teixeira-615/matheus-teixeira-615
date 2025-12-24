@@ -1,14 +1,13 @@
-## Olá! Eu sou o Matheus Teixeira 👋
+## Hi! I'm Matheus Teixeira 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º período <br> 
-💻 Apaixonado por tecnologia, programação e inteligência artificial <br> 
-☕ Desenvolvedor com foco em Java <br>
-📱 Desenvolvendo sistemas com foco em soluções simples e eficientes <br>
-📚 Sempre buscando aprender mais e evoluir como desenvolvedor
-
+🎓 Systems Analysis and Development student – 3rd semester  
+💻 Passionate about technology, programming, and artificial intelligence  
+☕ Java-focused developer  
+📱 Building systems with a focus on simple and efficient solutions  
+📚 Always seeking to learn and grow as a developer  
 ---
 
-### 💻 Tecnologias e ferramentas
+### 💻 Technologies & Tools
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />  
@@ -18,7 +17,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" />
 </p>
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development Tools
 
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60" />  
@@ -30,15 +29,14 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
 </p>
 
-### 🌱 Atualmente aprendendo
-
-- Desenvolvimento de sistema CRUD com interface gráfica simples
-- Spring security 
-- Implementar sistema CRUD com conexão com banco de dados relacionais. 
+## 🌱 Currently Learning
+- Building CRUD systems with simple graphical interfaces  
+- Spring Security  
+- CRUD systems connected to relational databases  
 
 ---
 
-### 📫 Entre em contato
+### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/matheus-teixeira-diogenes/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matheus.teixeiradiogenes@gmail.com)
 
