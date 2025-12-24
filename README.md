@@ -1,6 +1,6 @@
 ## Hi! I'm Matheus Teixeira 👋
 
-🎓 Systems Analysis and Development student – 3rd semester  
+🎓 Systems Analysis and Development student – 4rd semester  
 💻 Passionate about technology, programming, and artificial intelligence  
 ☕ Java-focused developer  
 📱 Building systems with a focus on simple and efficient solutions  
