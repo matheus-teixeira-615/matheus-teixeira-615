@@ -27,7 +27,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
 </p>
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning Java
 - Building CRUD systems with simple graphical interfaces  
 - Spring Security  
 - CRUD systems connected to relational databases  
